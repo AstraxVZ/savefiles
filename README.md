@@ -9,7 +9,7 @@ All of my save files - I will add more, but it will mostly be FNAF because that'
 
 **MAKE SURE TO BACKUP THE ORIGINAL SAVE FILE IN CASE SOMETHING GOES WRONG**
 
-### INSTALLATION INSTRUCTIONS
+## INSTALLATION INSTRUCTIONS
 
 **Unreal Engine**
 Download the save file, then move the file to C:\Users\yourname\AppData\Local\gamename\Saved\SaveGames and run the game. The game should be fully completed.
